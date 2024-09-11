@@ -35,4 +35,4 @@
 
 Если у Вас есть вопросы или предложения, Вы можете связаться со мной:
 
-[![Связаться со мной](https://cdn.icon-icons.com/icons2/306/PNG/96/Email-Icon_33999.png)](mailto:i@glumov.ru)    [![Связаться через WhatsApp](https://cdn.icon-icons.com/icons2/2857/PNG/96/logo_whatsapp_icon_181638.png)](https://wa.me/79651021705)
+[![Связаться со мной](https://cdn.icon-icons.com/icons2/306/PNG/96/Email-Icon_33999.png)](mailto:i@dglumov.ru)    [![Связаться через WhatsApp](https://cdn.icon-icons.com/icons2/2857/PNG/96/logo_whatsapp_icon_181638.png)](https://wa.me/79651021705)
